@@ -8,4 +8,3 @@ public class Main {
         System.out.println("Ваш ежемесячный платеж: " + (int)monthlyPayment);
     }
 }
-
